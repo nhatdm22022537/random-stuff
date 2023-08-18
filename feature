@@ -1,2 +1,2 @@
-commit 2
+This is a conflict
 
